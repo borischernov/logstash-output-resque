@@ -1,4 +1,4 @@
-:plugin: example
+:plugin: resque
 :type: output
 :default_codec: plain
 

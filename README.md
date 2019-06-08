@@ -1,6 +1,6 @@
 # Logstash Plugin
 
-[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-example.svg)](https://travis-ci.org/logstash-plugins/logstash-output-example)
+[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-resque.svg)](https://travis-ci.org/logstash-plugins/logstash-output-resque)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
